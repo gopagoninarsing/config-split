@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '8c793b0edf9872a52c757ade5f5b517f2a48facb',
+    'reference' => 'b9644d0d947ba3b38011b5d37dcf849ef92e5466',
     'name' => 'drupal/legacy-project',
   ),
   'versions' => 
@@ -159,6 +159,33 @@ private static $installed = array (
       ),
       'reference' => '648b0343343565c4a056bfc8392201385e8d89f0',
     ),
+    'doctrine/common' => 
+    array (
+      'pretty_version' => '3.4.3',
+      'version' => '3.4.3.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8b5e5650391f851ed58910b3e3d48a71062eeced',
+    ),
+    'doctrine/deprecations' => 
+    array (
+      'pretty_version' => 'v1.1.1',
+      'version' => '1.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '612a3ee5ab0d5dd97b7cf3874a6efe24325efac3',
+    ),
+    'doctrine/event-manager' => 
+    array (
+      'pretty_version' => '1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '95aa4cb529f1e96576f3fda9f5705ada4056a520',
+    ),
     'doctrine/lexer' => 
     array (
       'pretty_version' => '1.2.3',
@@ -167,6 +194,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'c268e882d4dbdd85e36e4ad69e02dc284f89d229',
+    ),
+    'doctrine/persistence' => 
+    array (
+      'pretty_version' => '3.2.0',
+      'version' => '3.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '63fee8c33bef740db6730eb2a750cd3da6495603',
     ),
     'doctrine/reflection' => 
     array (
@@ -415,6 +451,15 @@ private static $installed = array (
         0 => '9.5.9',
       ),
     ),
+    'drupal/devel' => 
+    array (
+      'pretty_version' => '5.1.2',
+      'version' => '5.1.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '5.1.2',
+    ),
     'drupal/entity' => 
     array (
       'pretty_version' => '1.4.0',
@@ -449,7 +494,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '8c793b0edf9872a52c757ade5f5b517f2a48facb',
+      'reference' => 'b9644d0d947ba3b38011b5d37dcf849ef92e5466',
     ),
     'drupal/variationcache' => 
     array (
