@@ -14,12 +14,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '8c793b0edf9872a52c757ade5f5b517f2a48facb',
     'name' => 'drupal/legacy-project',
   ),
   'versions' => 
@@ -176,6 +176,24 @@ private static $installed = array (
       array (
       ),
       'reference' => '1034e5e71f89978b80f9c1570e7226f6c3b9b6fb',
+    ),
+    'drupal/config_filter' => 
+    array (
+      'pretty_version' => '1.10.0',
+      'version' => '1.10.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.10',
+    ),
+    'drupal/config_split' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/core' => 
     array (
@@ -426,12 +444,12 @@ private static $installed = array (
     ),
     'drupal/legacy-project' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '8c793b0edf9872a52c757ade5f5b517f2a48facb',
     ),
     'drupal/variationcache' => 
     array (
