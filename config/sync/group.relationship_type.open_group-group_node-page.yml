@@ -1,0 +1,17 @@
+uuid: c0c589e4-1dab-4f6b-852c-b18776c7f804
+langcode: en
+status: true
+dependencies:
+  config:
+    - group.type.open_group
+    - node.type.page
+  module:
+    - gnode
+    - node
+id: open_group-group_node-page
+group_type: open_group
+content_plugin: 'group_node:page'
+plugin_config:
+  group_cardinality: 0
+  entity_cardinality: 1
+  use_creation_wizard: false

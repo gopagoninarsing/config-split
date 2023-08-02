@@ -1,0 +1,15 @@
+uuid: f6a0158c-72e8-45bc-836c-c648ffbc6cb2
+langcode: en
+status: true
+dependencies:
+  config:
+    - group.type.open_group
+    - user.role.administrator
+id: open_group-admin_out
+label: Administrator
+weight: 101
+admin: true
+scope: outsider
+global_role: administrator
+group_type: open_group
+permissions: {  }

@@ -1,0 +1,18 @@
+uuid: e34a34c0-96c5-4a93-9930-8be64cae461b
+langcode: en
+status: true
+dependencies:
+  config:
+    - group.type.open_group
+id: group.open_group.label
+field_name: label
+entity_type: group
+bundle: open_group
+label: 'Open Group'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
